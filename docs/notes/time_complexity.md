@@ -8,6 +8,8 @@ permalink: docs/notes
 #  Time Complexity
 {: .no_toc }
 
+![](../../_site/assets/images/time_complexity.png)
+
 ## priority_queue
 If you have an array of size n and you want to build a heap from all items at once, Floyd's algorithm can do it with O(n) complexity. See Building a heap. This corresponds to the std::priority_queue constructors that accept a container parameter.
 If you have an empty priority queue to which you want to add n items, one at a time, then the complexity is O(n * log(n)).
