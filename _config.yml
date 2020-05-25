@@ -3,6 +3,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
 logo: "/assets/images/logo.jpg"
 search_enabled: true
-# Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
