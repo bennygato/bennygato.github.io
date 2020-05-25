@@ -1,4 +1,8 @@
-title: "Remote theme example"
+title: "lalala"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+color_scheme: nil
+logo: "/assets/images/logo.jpg"
+search_enabled: true
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
