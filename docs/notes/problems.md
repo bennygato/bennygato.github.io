@@ -1,9 +1,9 @@
 ---
-title: note_4
+title: problems
 has_children: false
 nav_order: 4
 parent: notes
-permalink: /docs/note_3
+permalink: /docs/note_4
 ---
 # Problems
 
