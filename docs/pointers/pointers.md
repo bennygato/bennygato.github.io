@@ -14,7 +14,7 @@ has_toc: false
 {:toc}
 
 ## linked list pointers excercises
-- [876](/doc/876)
+- [876](/docs/876)
 - [24](/docs/24)
 - [92. Reverse Linked List II](/docs/92) hard...
 
@@ -23,7 +23,7 @@ has_toc: false
 ### fixed size sliding window
 - [567. Permutation in String](/docs/567) easy
 
-### sliding window (window size changing)
+### sliding window window size changing
 - [209. Minimum Size Subarray Sum](/docs/209) easy, basic. 
 - [904. Fruit Into Baskets](/docs/904) medium
 - [1208. Get Equal Substrings Within Budget](/docs/1208) medium
