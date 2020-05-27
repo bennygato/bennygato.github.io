@@ -63,7 +63,7 @@ template: [304](/docs/304)
 
 [128. Longest Consecutive Sequence](/docs/128)
 
-Write hash function for `unordered_set<pair<int,int>>`: [939. mininuym area rectangle](/docs/939)
+Write hash function for `unordered_set<pair<int,int>>`: [939. mininum area rectangle](/docs/939)
 ```c++
 struct pair_hash {
     inline std::size_t operator()(const std::pair<int,int> & v) const {

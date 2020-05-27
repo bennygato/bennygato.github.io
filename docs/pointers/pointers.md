@@ -1,14 +1,12 @@
 ---
 title: pointers
 has_children: true
-nav_order: 5
-has_toc: false
+nav_order: 2
 ---
-#  pointers
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+# Another page
 
-1. TOC
-{:toc}
+Test this
+
+
+blah
