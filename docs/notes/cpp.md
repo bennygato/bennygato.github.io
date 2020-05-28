@@ -61,3 +61,6 @@ return val and be cast to (char)
 The vector is extended by inserting new elements **before** the element at the pecified position, effectively increasing the container size by the number of lements inserted.
 
 See [link](https://www.geeksforgeeks.org/vector-insert-function-in-c-stl/) for example
+
+## upper_bound
+- [981. Time Based Key-Value Store](/docs/981) customized compare function for upper bound
